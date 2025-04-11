@@ -1,1 +1,8 @@
-# Senioren-Lieferdienst
+Senioren-Lieferservice body { font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 20px; } .container { max-width: 700px; margin: auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); } h1 { color: #1a73e8; text-align: center; } .section { margin-top: 20px; } .contact { background-color: #eef2f7; padding: 15px; border-radius: 5px; } .cta { text-align: center; margin-top: 30px; } .cta button { background-color: #1a73e8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; } .cta button:hover { background-color: #1256b0; } 
+
+Senioren-Lieferservice 
+
+Ich erledige Ihre Einkäufe, Apotheken- und Postgänge sowie kleine Besorgungen – schnell, zuverlässig und direkt zu Ihnen nach Hause.
+
+<div class="section"> <h2>So funktioniert's</h2> <ul> <li>Einfach per Anruf oder WhatsApp bestellen</li> <li>Ich erledige den Einkauf oder die Besorgung</li> <li>Lieferung noch am selben Tag (je nach Uhrzeit)</li> </ul> </div> <div class="section"> <h2>Preise</h2> <ul> <li>Fester Preis: <strong>10 € pro Lieferung</strong> im Umkreis von 3 km</li> <li>+3 € für mehrere Stops oder weitere Entfernungen</li> <li>Monatspaket: <strong>4 Lieferungen/Woche für 100 €</strong></li> </ul> </div> <div class="section contact"> <h2>Kontakt</h2> <p><strong>Telefon:</strong> 0151 12345678</p> <p><strong>WhatsApp:</strong> Direktnachricht möglich</p> <p><strong>Verfügbar:</strong> Montag bis Freitag, 10–17 Uhr</p> </div> <div class="cta"> <button onclick="window.location.href='tel:015112345678'">Jetzt anrufen</button> </div> 
+
